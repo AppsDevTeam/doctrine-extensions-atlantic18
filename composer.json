@@ -14,8 +14,6 @@
   "require": {
     "php": ">=7.2",
     "nette/di": "^3.0.0",
-    "doctrine/orm": "^2.8.0",
-    "doctrine/annotations": "^1.6.0",
     "gedmo/doctrine-extensions": "^3.0.3"
   },
   "require-dev": {
